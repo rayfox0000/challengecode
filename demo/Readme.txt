@@ -1,0 +1,1 @@
+This is a backend server which can be hosted locally in Intellij or any Java IDE. 
